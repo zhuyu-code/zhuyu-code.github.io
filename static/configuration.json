@@ -1,6 +1,6 @@
 {
     "githubUsername": "zhuyu-code",
-    "blogTitle": "zhuyu",
+    "blogTitle": "朱宇",
     "blogDescribe": "欢迎来到朱宇爸爸的个人博客。",
     "htmlTitle": "朱宇的博客",
     "fontColor": "#ffffff",
@@ -10,6 +10,6 @@
     "audioUrl": "http://sc1.111ttt.cn:8282/2018/1/03m/13/396131232171.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3",
     "mini": false,
     "webSites":[
-        {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
+        {"name":"CSDN个人技术博客" , "url":"https://blog.csdn.net/qq_39125445"}
     ]
 }
